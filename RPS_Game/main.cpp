@@ -65,7 +65,7 @@ void Game() {
 		}
 		if (oneMore == "2") {
 			cout << "Goodbye, see you later!" << endl;
-			exit(10);
+			exit(0);
 		}
 		cout << "You have to write 1 or 2." << endl;
 	} while (true);
